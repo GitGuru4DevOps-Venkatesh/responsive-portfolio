@@ -1,11 +1,11 @@
 # Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio Responsive Complete
+## [Watch it on youtube]
+### Portfolio Responsive Website Resume
 
 - Responsive Personal Portfolio Website HTML CSS & JavaScript.
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
-- Developed first website to run with the AWS server.
+- Developed first website to run with the AWS server using Dockerfile.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 💙 Join the channel to see more videos like this. [DigitalConnectsHub.](https://www.youtube.com/@TheDigitalConnectsHub.blogspot))
