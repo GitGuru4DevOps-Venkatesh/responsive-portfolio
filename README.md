@@ -10,8 +10,6 @@
 
 💙 Join the channel to see more videos like this. [DigitalConnectsHub.]([https://www.youtube.com/@Bedimcode](https://www.youtube.com/@TheDigitalConnectsHub.blogspot))
 
-![preview img](/preview.png)
-
 **How to use this as website using Docker in AWS-Instance**
 **Follow the below steps**
 
