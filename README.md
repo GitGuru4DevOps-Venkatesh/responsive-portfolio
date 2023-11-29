@@ -5,10 +5,10 @@
 - Responsive Personal Portfolio Website HTML CSS & JavaScript.
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
+- Developed first website to run with the AWS server.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [DigitalConnectsHub.]([https://www.youtube.com/@Bedimcode](https://www.youtube.com/@TheDigitalConnectsHub.blogspot))
+💙 Join the channel to see more videos like this. [DigitalConnectsHub.](https://www.youtube.com/@TheDigitalConnectsHub.blogspot))
 
 **How to use this as website using Docker in AWS-Instance**
 **Follow the below steps**
